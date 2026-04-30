@@ -1,0 +1,38 @@
+h1 {
+    color: #2c7be5;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Arial, sans-serif;
+}
+
+#intro {
+    color: #333;
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.link-ref {
+    display: inline-block;
+    margin-top: 10px;
+    color: white;
+    background-color: #28a745;
+    padding: 8px 12px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.link-ref:hover {
+    background-color: #1e7e34;
+}
+
+.img-web {
+    width: 300px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
